@@ -1,4 +1,4 @@
 gevent
 django
-hg+https://bitbucket.org/Jeffrey/gevent-websocket#egg=gevent-websocket
-hg+https://bitbucket.org/Jeffrey/gevent-socketio#egg=gevent-socketio
+https://pypi.python.org/packages/98/d2/6fa19239ff1ab072af40ebf339acd91fb97f34617c2ee625b8e34bf42393/gevent-websocket-0.10.1.tar.gz#md5=e095bf3358175489a956949c1b4de9ff
+git+https://github.com/abourget/gevent-socketio
